@@ -1,0 +1,64 @@
+
+
+
+input.textinput{
+  width: 200px;
+  height: 200px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+label{
+  font-size: 1rem;
+}
+.qrbox{
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(243, 241, 241);
+  background-position: center;
+  /* width: max-content; */
+  height: 30rem;
+  border-radius: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.qrbox-input{
+  margin-right: 7rem;
+}
+ .qrbox-output{
+   margin: 1rem;
+   
+ }
+
+.footer-main{
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background: rgb(236, 236, 135);
+  color: rgb(32, 32, 27);
+  display: flex;
+  justify-content: center;;
+}
+span{
+  margin-right: 10px;
+
+}
+.footer-content{
+  display: flex;
+}
+textarea.form-control {
+  max-height: 50vh;
+}
+
+Nav.link{
+  color: greenyellow;
+}
