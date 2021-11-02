@@ -6,9 +6,9 @@
 # About
 
  This is personal project where user can generate or download QR CODE by various methods-
-1 - Upload image having readable text extracted by OCR then QR generated.
-2 - Write Raw text as user wants in QR.
-3 - By dynamic form creation.
+* Upload image having readable text extracted by OCR then QR generated.
+* Write Raw text as user wants in QR.
+* By dynamic form creation.
 
 # Stack used
 
